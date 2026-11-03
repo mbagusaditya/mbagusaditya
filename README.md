@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm M. Bagus Aditya 👋
 
-<!--
-**mbagusaditya/mbagusaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a **Software Engineering & Backend-focused Student** at Dian Nuswantoro University (UDINUS). I have a strong passion for building scalable web applications, microservices architecture, and exploring high-performance backend systems.
 
-Here are some ideas to get you started:
+- 🎓 Studying **Informatics Engineering** at Universitas Dian Nuswantoro.
+- 💡 Interested in **High-Performance Backend, Distributed Systems, & Performance Benchmarking**.
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/muhammad-bagus-aditya-213868290) | [Email](mailto:bagusaditya9a19@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Backend & APIs**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Elysia](https://img.shields.io/badge/ElysiaJS-F7A41D?style=for-the-badge&logo=elysia&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend & Mobile**
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+**Tools, Infrastructure & Databases**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🧪 Currently Learning & Exploring
+- 🎯 **RabbitMQ** (Asynchronous Message Broker & Event-Driven Architecture)
+- 🐳 **Advanced Docker & Containerization**
+- 🕸️ **GraphQL** (Query Optimization & API Architecture)
+- ⚡ **Hono.js** (Ultra-fast web framework for Edge / Cloudflare Workers)
+- 💚 **Nuxt.js** (Vue-based SSR Framework)
+
+---
+
+### 📁 Featured Projects
+
+| Project Name | Tech Stack | Description | Link |
+|---|---|---|---|
+| **Microservices Communication Benchmark** | Go, gRPC, REST, GraphQL, PostgreSQL | High-load performance testing comparing gRPC, REST API, and GraphQL using Golang & 1B PostgreSQL records. | [View Repo](#) |
+| **E-Commerce Backend API** | Go, Gin, Redis, Docker | Scalable REST API backend with JWT auth, caching, and clean architecture pattern. | [View Repo](#) |
+| **Realtime Task Management** | Bun, Elysia, SvelteKit | Fullstack monorepo application using Turborepo with real-time web sockets integration. | [View Repo](#) |
+
+*(Ganti isi tabel proyek di atas sesuai nama repository asli milik Anda)*
+
+---
