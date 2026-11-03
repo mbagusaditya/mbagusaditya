@@ -43,15 +43,3 @@ I'm a **Software Engineering & Backend-focused Student** at Dian Nuswantoro Univ
 - 💚 **Nuxt.js** (Vue-based SSR Framework)
 
 ---
-
-### 📁 Featured Projects
-
-| Project Name | Tech Stack | Description | Link |
-|---|---|---|---|
-| **Microservices Communication Benchmark** | Go, gRPC, REST, GraphQL, PostgreSQL | High-load performance testing comparing gRPC, REST API, and GraphQL using Golang & 1B PostgreSQL records. | [View Repo](#) |
-| **E-Commerce Backend API** | Go, Gin, Redis, Docker | Scalable REST API backend with JWT auth, caching, and clean architecture pattern. | [View Repo](#) |
-| **Realtime Task Management** | Bun, Elysia, SvelteKit | Fullstack monorepo application using Turborepo with real-time web sockets integration. | [View Repo](#) |
-
-*(Ganti isi tabel proyek di atas sesuai nama repository asli milik Anda)*
-
----
