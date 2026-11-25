@@ -5,7 +5,7 @@ I'm a **Software Engineering & Backend-focused Student** at Dian Nuswantoro Univ
 
 - 🎓 Studying **Informatics Engineering** at Universitas Dian Nuswantoro.
 - 💡 Interested in **High-Performance Backend, Distributed Systems, & Performance Benchmarking**.
-- 📬 How to reach me: [LinkedIn](https://linkedin.com/muhammad-bagus-aditya-213868290) | [Email](mailto:bagusaditya9a19@gmail.com)
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/muhammad-bagus-aditya-213868290) | [Email](mailto:mbagusaditya.dev@gmail.com)
 
 ---
 
