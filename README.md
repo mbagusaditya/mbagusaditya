@@ -1,7 +1,7 @@
 # Hi there, I'm M. Bagus Aditya 👋
 
 ### 🚀 About Me
-I'm a **Software Engineering & Backend-focused Student** at Dian Nuswantoro University (UDINUS). I have a strong passion for building scalable web applications, microservices architecture, and exploring high-performance backend systems.
+I'm a **Informatics Engineering & Backend-focused Student** at Dian Nuswantoro University (UDINUS). I have a strong passion for building scalable web applications, microservices architecture, and exploring high-performance backend systems.
 
 - 🎓 Studying **Informatics Engineering** at Universitas Dian Nuswantoro.
 - 💡 Interested in **High-Performance Backend, Distributed Systems, & Performance Benchmarking**.
